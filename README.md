@@ -1,4 +1,4 @@
-# movie_recommend# 🎬 아이템 기반 협업 필터링 영화 추천 시스템
+# 🎬 아이템 기반 협업 필터링 영화 추천 시스템
 
 ## 📌 프로젝트 개요
 이 프로젝트는 **아이템 기반 협업 필터링(Item-Based Collaborative Filtering)** 기법을 활용하여 사용자에게 맞춤형 영화 추천을 제공하는 Streamlit 기반 웹 애플리케이션입니다.
