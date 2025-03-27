@@ -17,6 +17,7 @@ def main():
     st.subheader("아이템 기반 협업 필터링이란?")
     st.markdown("""아이템 기반 협업 필터링(Item-Based Collaborative Filtering)은 추천 시스템의 한 방식으로,  
                 아이템 간의 유사도를 계산하여 사용자가 좋아할 만한 다른 아이템(상품, 영화 등)을 추천하는 방식입니다.  
+                예를 들어 사용자가 영화 A를 좋아했다면 → 영화 A와 유사한 다른 영화들을 추천합니다. 
                 """)
     st.header("1️⃣ 데이터 소개")
     st.markdown("""
